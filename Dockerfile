@@ -1,4 +1,4 @@
-FROM alpine:3.18@sha256:2995c82e8e723d9a5c8585cb8e901d1c50e3c2759031027d3bff577449435157
+FROM alpine:3.18@sha256:b90c141a9f1d528f87dc2a54f85a3f49d3c42b10fb00cd42e7f19ba4c9071fa8
 
 RUN apk add wget ca-certificates
 
